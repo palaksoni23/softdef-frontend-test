@@ -11,10 +11,10 @@ function Navbar() {
 
       
       <div className="hidden md:flex gap-8 text-gray-700 font-medium">
-        <a href="#" className="hover:text-green-600 transition">Home</a>
-        <a href="#" className="hover:text-green-600 transition">Plants</a>
-        <a href="#" className="hover:text-green-600 transition">About</a>
-        <a href="#" className="hover:text-green-600 transition">Contact</a>
+        <a href="/" className="hover:text-green-600 transition">Home</a>
+        <a href="/" className="hover:text-green-600 transition">Plants</a>
+        <a href="/" className="hover:text-green-600 transition">About</a>
+        <a href="/" className="hover:text-green-600 transition">Contact</a>
       </div>
 
       
